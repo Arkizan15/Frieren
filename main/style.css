@@ -1,0 +1,46 @@
+nav{
+    background-color: #87A2FF;
+    position: sticky;
+}
+.navbar-brand img{
+    margin-left: 15px;
+    margin-bottom: 3px;
+}
+.lamanpertama {
+    position: relative;
+}
+.navbar-nav {
+    margin-left: 130vh;
+}
+ .nav-item  a{
+    margin-right: 10px;
+  border-radius: 20px;
+   text-align: right;
+}
+.nav-item :hover{
+   
+    border-radius: 20px;
+    background-color: white;
+}
+.background img{
+    position: relative;
+    object-fit: cover;
+    height: auto;
+    width: 100%;
+}
+.background p{
+    position: absolute;
+    background-color: #C4D7FF;
+    margin-left: 50px;
+    width: 53vh;
+    font-family: Inknut Antiqua;
+    height: auto;
+    padding: 20px;
+    border-radius: 20px;
+    top: 40px;
+    
+}
+
+ ::-webkit-scrollbar {
+    display: none;
+ }
